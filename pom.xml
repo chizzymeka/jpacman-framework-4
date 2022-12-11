@@ -310,6 +310,7 @@
 					</dependency>
 				</dependencies>
 				<configuration>
+					<skipTests>true</skipTests>
 					<trimStackTrace>false</trimStackTrace>
 				</configuration>
 			</plugin>
